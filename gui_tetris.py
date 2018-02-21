@@ -7,6 +7,7 @@ import numpy as np
 import sys
 from tetris import Tetris
 
+#using class file tetris.py
 
 class gui_tetris(Tetris):
 
